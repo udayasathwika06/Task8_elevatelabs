@@ -1,0 +1,16 @@
+
+Dashboard Name: Sales Performance Overview – Category, Region & Time
+
+Dashboard Insights Summary: 
+
+1. Monthly Trend: SALES OVER TIME 
+“Sales steadily increased throughout the year, peaking in Marchand July. Central and West regions led in performance.” 
+
+2. Regional Performance: SALES BY REGION 
+“West had the highest sales, while East had higher average profit margins, indicating cost efficiency.” 
+
+3. Category Breakdown: SALES BY CATEGORY 
+“Office Supplies is the top-selling category, followed by Furniture. Technology lag behind.” 
+
+4. Interactive Filters: 
+“Filters allow quick analysis of regional/category-specific trends, enabling dynamic insights.”
